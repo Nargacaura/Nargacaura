@@ -1,16 +1,21 @@
-### Hi there 👋
+![Header](Readme_img/Header.png)
 
-<!--
-**Nargacaura/Nargacaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Bienvenue sur mon git!*
 
-Here are some ideas to get you started:
+![Who am I?](Readme_img/WhoamI.png)
+De vrai nom **Damien Ledda**, je suis un jeune développeur (et dessinateur) habitant sur Strasbourg depuis mes premières secondes. Actuellement en formation à la CCI, le développement est un sujet qui me passionne depuis des années grâce au fait que les possibilités de création niveau software sont quasiment infinies. (Ah, et j'aime aussi jouer aux RPGs, dessiner -- duh --, regarder des médias incluant des kaiju... OK, je crois que j'ai trop dévié.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Content](Readme_img/Content.png)
+Vous vous poserez probablement la question sur le contenu de ce Git. Eh bien, tout ce que j'ai pu faire depuis ma licence en termes de projets et aussi ce que je code(rai) en sites.
+
+... Ah. Vous voulez avoir les spécifications, c'est vrai.
+- Systèmes d'exploitation: **Windows**, **Linux**
+- Langages: **C**, **PHP**, ... et plus encore!
+
+![Other links](Readme_img/OtherLinks.png)
+Si vous vous demandez où *d'autre* vous pouvez me trouver, voici les réseaux auxquels je suis à l'heure actuelle:
+- **[LinkedIn](https://www.linkedin.com/in/damien-ledda/)**: si vous voulez me contacter professionnellement (dans le cadre d'une prise de contact par exemple),
+- **Discord**: si vous voulez discuter un peu (que ce soit professionnelement ou pas) [Le nom d'utilisateur et l'image de profil sont les mêmes qu'ici]
+- **[Twitter](https://twitter.com/Aurawushi)**: à la base pour les dessins, mais c'est plus du random depuis que je suis en hiatus
+
+Voilà voilà. Ce Readme se mettra à jour en cas de changements.
