@@ -11,7 +11,7 @@ Vous vous poserez probablement la question sur le contenu de ce Git. Eh bien, to
 ... Ah. Vous voulez avoir les spécifications, c'est vrai.
 - Systèmes d'exploitation: **Windows**, **Linux**
 - IDE: **VS Code** (depuis 2017), **Atom** (2016-2017)
-- Langages: **C**, **PHP** (via **Symfony**), **CSS**, ... et plus encore! Enfin, sauf ce qui commence par "Pro" et se finit par "log".
+- Langages: **C**, **PHP** (via **Symfony**), **CSS**, **Java** ... et plus encore! Enfin, sauf ce qui commence par "Pro" et se finit par "log".
 
 ![Other links](Readme_img/OtherLinks.png)
 Si vous vous demandez où *d'autre* vous pouvez me trouver, voici les réseaux auxquels je suis à l'heure actuelle:
