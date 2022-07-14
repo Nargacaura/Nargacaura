@@ -16,7 +16,6 @@ Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j
 ![Other links](Readme_img/OtherLinks.png)
 Si vous vous demandez où *d'autre* vous pouvez me trouver, voici les réseaux auxquels je suis à l'heure actuelle:
 - **[LinkedIn](https://www.linkedin.com/in/damien-ledda/)**: si vous voulez me contacter professionnellement (dans le cadre d'une prise de contact par exemple),
-- **Discord**: si vous voulez discuter un peu (que ce soit professionnellement ou pas),
-- **[Twitter](https://twitter.com/Aurawushi)**: à la base pour les dessins, mais c'est plus des trucs random depuis que je suis en hiatus (même si je commence lentement à reprendre quelques dessins).
+- **Discord**: si vous voulez discuter un peu (que ce soit professionnellement ou pas)
 
 Voilà voilà. Ce Readme se mettra à jour en cas de changements.
