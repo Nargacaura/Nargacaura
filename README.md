@@ -3,7 +3,7 @@
 *Bienvenue sur mon git!*
 
 ![Who am I?](Readme_img/WhoamI.png)
-De vrai nom **Damien Ledda**, je suis un jeune développeur (et dessinateur) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur Java, le développement est un sujet qui me passionne depuis des années grâce au fait que les possibilités de création niveau software sont quasiment infinies. (Ah, et j'aime aussi jouer aux RPGs, dessiner -- duh --, regarder des médias incluant des kaiju... OK, je crois que j'ai trop dévié.)
+De vrai nom **Damien Ledda**, je suis un jeune concepteur développeur d'applications (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur Java, le développement est un sujet qui me passionne depuis des années grâce au fait que les possibilités de création niveau software sont quasiment infinies. (Ah, et j'aime aussi jouer aux RPGs, dessiner -- duh --, regarder des médias incluant des kaiju et/ou des dragons... OK, je crois que j'ai trop dévié.)
 
 ![Content](Readme_img/Content.png)
 Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence.
