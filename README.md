@@ -1,7 +1,5 @@
 ![Header](Readme_img/Header.png)
 
-*Bienvenue sur mon git!*
-
 ![Who am I?](Readme_img/WhoamI.png)
 De vrai nom **Damien Ledda**, je suis un jeune concepteur développeur d'applications (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur Java, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaiju et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
 
