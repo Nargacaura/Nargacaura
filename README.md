@@ -7,7 +7,7 @@ De vrai nom **Damien Ledda**, je suis un jeune concepteur développeur d'applica
 Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence, hormis les codes provenant d'entreprises (qui sont propres aux orgas).
 
 ... Ah, c'est vrai. Vous voulez les spécif-- compétences.
-- Systèmes d'exploitation: **Windows**, **Linux**
+- Systèmes d'exploitation: **Windows**, **Linux** (et bientôt **Mac**)
 - IDE utilisés: **Eclipse** (depuis 2022), **VS Code** (depuis 2017), **Atom** (2016-2017)
 - Langages: **C**, **PHP** (via **Symfony**), **CSS**, **Java**, **JavaScript** / **TypeScript**, **Python**... et plus encore si je réussis à m'y adapter! Enfin, sauf ce qui commence par "Pro" et se finit par "log".
 
