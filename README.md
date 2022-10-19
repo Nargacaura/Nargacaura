@@ -10,7 +10,7 @@ Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j
 | Systèmes d'exploitation | IDEs | Langages | Frameworks |
 |:-:|:-:|:-:|:-:|
 | Windows | Visual Studio Code | C | Spring
-| Linux | *Eclipse (2022-2024)* | PHP | Symfony
+| Linux | *Eclipse (2022)* | PHP | Symfony
 | MacOS | *Atom (2016-2017)* | CSS | Angular / Ionic |
 | | | Java | |
 | | | JavaScript / TypeScript | |
