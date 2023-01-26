@@ -12,9 +12,9 @@ Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j
 | Windows | Visual Studio Code | C | Spring
 | Linux || PHP | Symfony
 | MacOS || Java | Angular / Ionic *(en cours)*
-||| TypeScript | Express *(en cours)*
+||| JavaScript / TypeScript | Express *(en cours)*
 ||| Markdown | Svelte *(en cours)*
-||| HTML
+||| HTML / CSS
 
 
 ![Other links](Readme_img/OtherLinks.png)
