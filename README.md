@@ -1,7 +1,7 @@
 ![Header](Readme_img/Header.png)
 
 ![Who am I?](Readme_img/WhoamI.png)
-De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur Java (et accessoirement TypeScript) dans une petite entreprise* locale de développement de logiciels dédiés à la prise de rendez-vous, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaijū et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
+De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur logiciel dans une petite entreprise* locale de développement de logiciels dédiés à la prise de rendez-vous, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaijū et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
 
 ![Content](Readme_img/Content.png)
 Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence, hormis les codes provenant d'entreprises (qui sont propres aux orgas).
