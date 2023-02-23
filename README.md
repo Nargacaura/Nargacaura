@@ -23,7 +23,8 @@ Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j
 
 Si vous vous demandez où *d'autre* vous pouvez me trouver, voici les réseaux auxquels je suis à ce jour:
 - **[LinkedIn](https://www.linkedin.com/in/damien-ledda/)**: si vous voulez me contacter professionnellement (dans le cadre d'une prise de contact par exemple),
-__Note:__ Je suis principalement inactif sur LinkedIn, je n'y vais pas super souvent x)
+> __Note:__ Je suis principalement inactif sur LinkedIn, je n'y vais pas super souvent x)
+
 - **Discord** [Pagotortoise#1826]: si vous voulez discuter un peu de tout et de n'importe quoi, que ce soit pro ou pas.
 
 \* Petite entreprise, 'fin, un peu solo en tant que dev pour l'instant...
