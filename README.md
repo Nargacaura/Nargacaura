@@ -9,14 +9,13 @@ De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie
 Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence, hormis les codes provenant d'entreprises (qui sont propres aux orgas).
 
 ... Ah, c'est vrai. Vous voulez les spécif-- compétences.
-| Systèmes d'exploitation | IDEs | Langages | Frameworks |
+| Systèmes d'exploitation | IDEs utilisés | Langages | Frameworks |
 |:-:|:-:|:-:|:-:|
-| Windows | Visual Studio Code | C | Svelte *(en cours)*
+| Windows | Visual Studio Code | HTML / CSS | Svelte *(en cours)*
 | Linux || PHP | Symfony
-| MacOS || Java | Angular / Ionic *(en cours)*
+| MacOS || Java | Docusaurus *(en cours)*
 ||| JavaScript / TypeScript | Express *(en cours)*
 ||| Markdown |
-||| HTML / CSS
 
 
 ![Other links](Readme_img/OtherLinks.png)
