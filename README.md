@@ -7,10 +7,6 @@ De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie
 
 Vous pouvez afficher ou télécharger le CV [ici](resources/pdf/CV.pdf) si ça vous chante. Bon, OK, il n'est pas totalement à jour, mais il le sera progressivement.
 
-![Content](resources/img/Content.png)
-
-Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence, hormis les codes provenant d'entreprises (qui sont propres aux orgas).
-
 ... Ah, c'est vrai. Vous voulez les spécif-- compétences.
 | Systèmes d'exploitation |   IDEs utilisés    |        Langages         |       Frameworks        |
 | :---------------------: | :----------------: | :---------------------: | :---------------------: |
@@ -19,6 +15,10 @@ Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j
 |          MacOS          |                    |          Java           | Docusaurus _(en cours)_ |
 |                         |                    | JavaScript / TypeScript |  Express _(en cours)_   |
 |                         |                    |        Markdown         |
+
+![Content](resources/img/Content.png)
+
+Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence, hormis les codes provenant d'entreprises (qui sont propres aux orgas).
 
 ![Other links](resources/img/OtherLinks.png)
 
