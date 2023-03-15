@@ -3,7 +3,7 @@
 
 ![Who am I?](resources/img/WhoamI.png)
 
-De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur logiciel dans une petite entreprise\* locale de développement de logiciels dédiés à la prise de rendez-vous, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaijū et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
+De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur logiciel dans une petite entreprise locale de développement de logiciels dédiés à la prise de rendez-vous, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaijū et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
 
 Vous pouvez afficher ou télécharger le CV [ici](resources/pdf/CV.pdf) si ça vous chante. Bon, OK, il n'est pas totalement à jour, mais il le sera progressivement.
 
@@ -29,5 +29,3 @@ Si vous vous demandez où _d'autre_ vous pouvez me trouver, voici les réseaux a
 > **Note:** Je suis principalement inactif sur LinkedIn, je n'y vais pas super souvent x)
 
 - **Discord** [Pagotortoise#1826]: si vous voulez discuter un peu de tout et de n'importe quoi, que ce soit pro ou pas.
-
-\* Petite entreprise, 'fin, un peu solo en tant que dev pour l'instant...
