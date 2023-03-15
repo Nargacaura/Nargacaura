@@ -3,7 +3,7 @@
 
 ![Who am I?](resources/img/WhoamI.png)
 
-De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie m'y prend) habitant sur Strasbourg depuis mes premières secondes. Actuellement développeur logiciel dans une petite entreprise locale de développement de logiciels dédiés à la prise de rendez-vous, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaijū et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
+De vrai nom **Damien Ledda**, je suis un jeune dev (et dessinateur quand l'envie m'y prend) habitant à Schiltigheim après avoir passé 24 ans sur Srasbourg. (Bon, 'kay, c'est pas loin, mais cherchons pas la 'tite bête.) Actuellement développeur logiciel dans une petite entreprise locale de développement de logiciels dédiés à la prise de rendez-vous, le code est un des sujets qui me passionnent depuis longtemps, certainement dû au fait que les possibilités de création niveau software sont quasiment infinies, et que la seule limite est celle de l'imagination, ce qui coincide avec celle du dessin. (Ah, et j'aime aussi jouer aux RPGs, regarder des médias incluant des kaijū et/ou des dragons... OK, je crois que j'ai trop dévié du but premier de cette présentation. Oops.)
 
 Vous pouvez afficher ou télécharger le CV [ici](resources/pdf/CV.pdf) si ça vous chante. Bon, OK, il n'est pas totalement à jour, mais il le sera progressivement.
 
