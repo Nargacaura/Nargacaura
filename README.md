@@ -1,5 +1,3 @@
-<!-- trunk-ignore(markdownlint/MD041) -->
-
 ![Header](resources/img/Header.png)
 
 ![Who am I?](resources/img/WhoamI.png)
