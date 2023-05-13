@@ -21,7 +21,6 @@ Vous pouvez afficher ou télécharger le CV [ici](resources/pdf/CV.pdf) si ça v
 Vous vous demandez probablement ce qu'il y a dans ce Git. Eh bien, tout ce que j'ai pu coder (que ce soit en solo ou en équipe) depuis ma licence, hormis les codes provenant d'entreprises (qui sont propres aux orgas). Pour info, voici quelques stats:
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Nargacaura&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=stars&locale=fr&custom_title=Statistiques%20sur%20GitHub)
-
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nargacaura&layout=compact&theme=transparent&hide_border=true&locale=fr&hide_progress=true&langs_count=10&custom_title=Langages%20des%20répos)
 
 _Note: Les stats de langages ne prennent pas en compte les répos des organisations auxquelles j'ai participé, ni les répos privés, d'où la grande différence entre le tableau et les stats._
